@@ -1,1 +1,3 @@
 # MSCCN-Transformer
+为了解决Linux系统中高级持续性威胁(APT)攻击隐蔽性强、传统检测方法难以有效捕获其复杂时空关联特征的问题，
+提出了一种基于多尺度卷积神经网络(MSCNN)与Transformer双分支并联架构的APT攻击检测模型。
